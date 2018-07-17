@@ -19,6 +19,10 @@ const list = [
   "fa fa-paper-plane-o",
   "fa fa-cube"
 ];
+/*
+ * Create an empty array to hold selected cards
+ */
+let cardMatch = [];
 
 /*
  * Display the cards on the page
