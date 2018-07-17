@@ -25,6 +25,11 @@ const list = [
 let cardMatch = [];
 
 /*
+ * setup counter
+ */
+ let counter = 0;
+ 
+/*
  * Display the cards on the page
  *   - shuffle the list of cards using the provided "shuffle" method below
  *   - loop through each card and create its HTML
