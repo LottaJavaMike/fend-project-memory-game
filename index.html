@@ -20,12 +20,16 @@
         		<li><i class="fa fa-star"></i></li>
         		<li><i class="fa fa-star"></i></li>
         		<li><i class="fa fa-star"></i></li>
+            <li><i class="fa fa-star"></i></li>
+            <li><i class="fa fa-star"></i></li>
         	</ul>
 
         	<span class="moves">3</span> Moves
 
-            <div class="restart">
-        		<i class="fa fa-repeat"></i>
+          <span class="timer"> 00:00 </div>
+
+          <div class="restart">
+        	<i class="fa fa-repeat"></i>
         	</div>
         </section>
 
@@ -81,6 +85,27 @@
         </ul>
     </div>
 
+    <div class="modal_popup hide">
+      <div class="modal_body">
+        <div class="modal_heading">
+          <h1 class="modal_message">Congratulations</h1>
+          <h1 class="modal_message">You won!</h1>
+        </div>
+      <div class="modal_stats">
+        <h2 class="modal_summary">Game Summary</h2>
+        <span class="modal_time"></span>
+        <span class="modal_stars"></span>
+        <span class="modal_moves"></span>
+      </div>
+
+      <div class="modal_buttons">
+        <button class="modal_button modal_close">Close</button>
+        <button class="modal_button modal_replay">Play Again</button>
+      </div>
+    </div>
+  </div>
+
     <script src="js/app.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min,js"></script>
 </body>
 </html>
