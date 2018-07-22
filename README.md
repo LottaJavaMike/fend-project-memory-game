@@ -13,6 +13,12 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
+## Built with
+
+* [Google Fonts] (http://fonts.google.com) - Coda font family
+* [fontawesome] (https://use.fontawesome.com/releases/v5.1.1/css/all.css) - Card icons
+* [Animate.css] (https://daneden.github.io/animate.css/) - Animations
+
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
