@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Built With] (#built with)
+* [Dependencies](#Dependencies)
 * [Contributing](#contributing)
 
 ## Instructions
@@ -14,7 +14,7 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Built with
+## Dependencies
 
 * [Google Fonts] (http://fonts.google.com) - Coda font family
 * [fontawesome] (https://use.fontawesome.com/releases/v5.1.1/css/all.css) - Card icons
